@@ -1,1 +1,34 @@
-testttttttttt
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	Access restriction: The method setDefaultCloseOperation(int) from the type JFrame is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Access restriction: The field DISPOSE_ON_CLOSE from the type WindowConstants is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Syntax error, 'for each' statements are only available if source level is 1.5 or greater
+	Multi-catch parameters are not allowed for source level below 1.7
+	Access restriction: The type CommunicationException is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, 'for each' statements are only available if source level is 1.5 or greater
+	Multi-catch parameters are not allowed for source level below 1.7
+	Access restriction: The type CommunicationException is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, 'for each' statements are only available if source level is 1.5 or greater
+	Multi-catch parameters are not allowed for source level below 1.7
+	Access restriction: The type CommunicationException is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, 'for each' statements are only available if source level is 1.5 or greater
+	Multi-catch parameters are not allowed for source level below 1.7
+	Access restriction: The type CommunicationException is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Access restriction: The method addActionListener(ActionListener) from the type AbstractButton is not accessible due to restriction on required library C:\Program Files\Java\JRE8\lib\rt.jar
+	Syntax error, annotations are only available if source level is 1.5 or greater
+
+	at gui.Principal.asignarEventos(Principal.java:52)
+	at gui.Principal.<init>(Principal.java:43)
+	at cliente.Cliente.<init>(Cliente.java:21)
+	at cliente.Cliente.main(Cliente.java:17)
